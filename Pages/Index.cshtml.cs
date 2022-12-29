@@ -14,7 +14,6 @@ namespace WebApplication1_Static.Pages
 
         public void OnGet()
         {
-            //Comment m
         }
     }
 }
